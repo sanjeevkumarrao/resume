@@ -25,17 +25,52 @@
   job_title: Module Lead
   dates: June 2014 - October 2015
   description: | # this will include new lines to allow paragraphs
-    **SAP Successfactors**: Learning Management System is one of the product offerings as part Successfactors HCM Suite and provides learning, training and certification solution for enterprises.
-
-    Building Datacenter, provisioning VMs, deploying applications using CI/CD process and pipelines and following ITIL guidelines.
+    **ShotClass**: Shotclass is a short form of learning module focuses on 15 mins course to enable knowledge on retail products. This app is developed on Ionic Framework and Angular JS with worklight as the server.
 
     My Roles and Responsibilities include:
-    - Writing chef cookbooks as per requirements from stakeholders.
-    - Automating the deployment process of LMS application across all datacenters using ruby scripts and chef recipes.
-    - Automating a datacenter build out through chef framework.
-    - Integrating GIT versioning process with multiple products.
-    - Creating dashboards using Ruby, Sinatra, HTML5, CSS and AngularJS.
-    - Maintaining stability between chef and puppet environments.
-    - Created and developing on in-house configuration management tool based on JAVA for datacenter configurations.
-    - Automating customer provisioning tool using REST APIs.
-    - Maintaining the customer metadata throughout their lifecycle using Ruby script automation and Jenkins jobs.
+    - Responsible for creating a native android application with web container.
+    - Need to create a responsive layout which adjusts its assets to tablets and different screen sizes.
+    - Have to create a WebSQL db to locally store the data and enabling offline access into the app.
+    - Introduced ionic framework in the mobile team with deep integration with google services.
+
+- company: Accenture India Services
+  job_title: Senior Software Engineer
+  dates: October 2012 - June 2014
+  description: | # this will include new lines to allow paragraphs
+    **SAP Successfactors**: Successfactors is an SAP Company which provides performance management - HCM Suite in cloud environment.
+
+    My role includes to manage the team for Release Engineering which does patch releases and deployments weekly and daily.
+
+    My Roles and Responsibilities include:
+    - Responsible for daily deployments and weekly patch upgrade release.
+    - Responsible for QC deployments and Production environments.
+    - Monitoring cloud availability and pool health.
+    - Creating new pools to accommodate new customers.
+    - Creating monitoring tool using HTML5, CSS and AngularJS.
+
+- company: Sasken Communications
+  job_title: Senior Mobile App Designer
+  dates: June 2012 - October 2012
+  description: | # this will include new lines to allow paragraphs
+    **Reward Plus**: Reward Plus app is about using  the reward and loyalty cards provided by the retailers and bring them to mobile and enabling users to access rewards on the GO.
+
+    My Roles and Responsibilities include:
+    - Design the layout, interfaces and graphic style of each view module provided by Visual Asset team.
+    - Participated in requirement Analysis and design phase.
+    - OAUTH implementation in worklight using adaptors.
+    - Preparing mapping documents of complete database information.
+    - Translate business requirements into technical specifications.
+    - Define Work Breakdown Structure, provide accurate estimates and define a plan for the execution of assigned tasks.
+    - Provide accurate impact assessment of proposed changes and initiatives.
+    - Perform System Testing and System Integration Testing and assist the business with UAT.
+    - Developed as a component based directives to integrate into any system.
+
+- company: Wipro Technologies
+  job_title: Project Engineer
+  dates: December 2008 - May 2012
+  description: | # this will include new lines to allow paragraphs
+    - Responsible for Design and development of Mobile Web Applications.
+    - Responsible for Design of UI and Front-End Architecture.
+    - Mentoring junior team members in the project.
+    - Developing Middleware to support the mobile web application.
+    - Developing Adaptors for the backend services.
