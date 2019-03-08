@@ -24,9 +24,21 @@ linkedin_username: sanjeevkumar-badrinath
 # about_title: About Me
 about_profile_image: images/sanjeev.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Sanjeev and I'm an Automation Engineer with extensive knowledge in Chef framework, Automation scripts using shell and ruby. I started my career as a project engineer in Wipro Technologies and worked on various different technologies in both front end and server side technologies. Currently, I am working on an end-to-end infrastructure automation project for a cloud product in SAP Australia. Have worked on Front End Technologies for around 10 years and I am an IBM certified work light mobile application developer with a hands-on experience in JQuery mobile, Ionic Framework, Angular JS, and NodeJS.
+  Hi, I am Sanjeev and I have around 10 years of software engineering experience. I'm an Automation Engineer with extensive knowledge in Chef framework, Automation scripts using Ruby and Shell. I started my career as a project engineer in Wipro Technologies and worked on various different technologies in both front end and server side technologies. Currently, I am working on an end-to-end infrastructure automation project in SAP Australia. I am an IBM certified worklight mobile application developer with a hands-on experience in JQuery mobile, Ionic Framework, Angular JS, and NodeJS.
 
-  I am most skilled in: <mark>Chef Framework</mark> and <mark>Ruby scripting</mark>
+  My expertise include:
+    - Chef Framework
+    - Chef vault
+    - Jenkins
+    - Ruby
+    - MongoDB
+    - NodeJS
+    - AngularJS
+    - HTML5
+    - CSS3
+    - Javascript
+    - REST APIs
+    - GitHub Integration and Hooks Maintainance
 
 # Experience Section
 # experience_title: My Experience
