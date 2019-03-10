@@ -26,21 +26,32 @@ about_profile_image: images/sanjeev.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Sanjeev and I have around 10 years of experience in software engineering.
 
-  I'm an Automation Engineer with extensive knowledge in Chef framework, Automation scripts using Ruby and Shell. I started my career as a project engineer in Wipro Technologies and worked on various technologies covering both front end and server side technologies. Currently, I am working on an end-to-end infrastructure automation project in SAP Australia. I am an IBM certified worklight mobile application developer(6.1) with a hands-on experience in Jquery mobile, Ionic Framework, Angular JS, and NodeJS.
+  I'm a DevOps Engineer with extensive knowledge in Chef framework, Automation scripts using shell, Ruby and Python. Working on end-to-end infrastructure automation for a cloud product. Have worked on Front End Technology and an IBM certified work light mobile application developer with a hands-on experience in JQuery mobile, Ionic Framework, AngularJS, and NodeJS.
 
-  My expertise include:
-    - Chef Framework
-    - Chef vault
-    - Jenkins
-    - Ruby
-    - MongoDB
-    - NodeJS
-    - AngularJS
-    - HTML5
-    - CSS3
-    - Javascript
-    - REST APIs
-    - GitHub Hooks and Jenkins Integration
+
+  **DevOps Expertise**:
+    - Automated Release and Deployment lifecycle using Jenkins and GitHub.
+    - Automated End-to-End Customer Lifecycle which consists of Provisioning Instances, Configuring, and terminating the customer instance
+    - Improving the Datacenter Build through Chef and Terraform
+
+  **UI Development**:
+    - Have worked and certified in IBM Work light
+    - Experience in implementing SOAP and REST based web services for generating server request and getting a response from WSDL file as well JSON response.
+    - Handle Complex and Challenging Tasks, ability to put in relentless effort to learn new technologies and deliver innovative solutions.
+    - Created Full Stack Angular JS using scaffolding tools like Yeoman with Grunt JS.
+    - Strong technical skills, high sense of ownership, good problem-solving skills, client-focused approach, Quick and self-learning ability and a cohesive team player.
+
+  **What can I do?**:
+    - Can create a cloud stack from scratch and enable private cloud.
+    - Create datacenter configurations - Both public and private cloud requirements.
+    - Design automation workflows to increase operational efficiency.
+    - Integrate Jenkins with Github and build a CI/CD pipeline and Gitflow.
+    - Building Hybrid Mobile Applications with Ionic and Angular JS.
+    - Design, Develop and Deploy a complete application stack including Front-End, Server APIs and DB in cloud.
+
+
+  Technical Skills: Chef framework, Ruby, Python, Shell Scripts, Jenkins, Rundeck, Git, GitHub, Jenkins Pipelines, Groovy DSL, JavaScript, IBM Worklight, HTML5, CSS3, SASS, Cordova, Atom IDE, AngularJS, Ionic framework, MongoDB, Node Js, Express Framework, Karma, Jasmine, Bower, Gulp, Grunt, Bootstrap, Webservices, Agile Methodologies.
+
 
 # Experience Section
 # experience_title: My Experience
