@@ -1,8 +1,6 @@
 - company: SAP Australia
   job_title: IT Technology Consultant
   dates: October 2015 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     **SAP Successfactors**: Learning Management System is one of the product offerings as part Successfactors HCM Suite and provides learning, training and certification solution for enterprises.
 
