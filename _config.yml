@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Sanjeev kumar Badrinath
-title: DevOps Engineer - Infrastructure Automation
+title: DevOps Lead - Product Automation
 email: sanjeevkumarrao@gmail.com
 phone: +61-470350214
 website: www.github.com/sanjeevkumarrao/resume
@@ -26,7 +26,7 @@ about_profile_image: images/sanjeev.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Sanjeev and I have around 10 years of experience in software engineering.
 
-  I'm a DevOps Engineer with extensive knowledge in Chef framework, Automation scripts using shell, Ruby and Python. Working on end-to-end infrastructure automation for a cloud product. Have worked on Front End Technology and an IBM certified work light mobile application developer with a hands-on experience in JQuery mobile, Ionic Framework, AngularJS, and NodeJS.
+  I'm a DevOps Lead with extensive knowledge in Chef framework, Automation scripts using shell, Ruby and Python. Working on end-to-end infrastructure automation for a cloud product. Have worked on Front End technologies and an IBM certified worklight mobile application developer with hands-on experience in JQuery mobile, Ionic Framework, AngularJS, and NodeJS.
 
 
   **DevOps Expertise**:
