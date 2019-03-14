@@ -4,29 +4,29 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Sanjeev kumar Badrinath
-title: DevOps Lead - Product Automation
+title: IT Technology Consultant
 email: sanjeevkumarrao@gmail.com
 phone: +61-470350214
-website: sanjeevkumarrao.github.io/resume
+
+# website: sanjeevkumarrao.github.io/resume
 
 # Social links
-twitter_username: sanjeevkumarrao
-github_username:  sanjeevkumarrao
+address: 2/18, Zenith Avenue, Chermside, QLD-4032
+# twitter_username: sanjeevkumarrao
+# github_username:  sanjeevkumarrao
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: sanjeevkumar-badrinath
+# linkedin_username: sanjeevkumar-badrinath
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: CAREER SUMMARY
 about_profile_image: images/sanjeev.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Sanjeev and I have around 10 years of experience in software engineering.
-
-  I'm a DevOps Lead with extensive knowledge in Chef framework, Automation scripts using shell, Ruby and Python. Working on end-to-end infrastructure automation for a cloud product. Have worked on Front End technologies and an IBM certified worklight mobile application developer with hands-on experience in JQuery mobile, Ionic Framework, AngularJS, and NodeJS.
+  A highly skilled DevOps engineer with 10 years of experience in Chef framework, Automation scripts using shell, Ruby and Python. Working on end-to-end infrastructure automation for a cloud product. Have worked on Front End technologies and an IBM certified worklight mobile application developer with hands-on experience in JQuery mobile, Ionic Framework, AngularJS, and NodeJS.
 
 
   **DevOps Expertise**:
